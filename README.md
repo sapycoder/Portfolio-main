@@ -33,8 +33,3 @@ This is a portfolio web application built using HTML and CSS. It showcases your 
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
 
-![Main Page](https://github.com/Harsh23Kashyap/Portfolio/blob/main/assets/SS1.png)
-![Resume](https://github.com/Harsh23Kashyap/Portfolio/blob/main/assets/SS2.png)
-![Projects](https://github.com/Harsh23Kashyap/Portfolio/blob/main/assets/SS6.png)
-![Contact](https://github.com/Harsh23Kashyap/Portfolio/blob/main/assets/SS5.png)
-
